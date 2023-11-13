@@ -1,0 +1,2 @@
+# bag_bashrc
+bashrcs
